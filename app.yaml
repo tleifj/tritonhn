@@ -1,0 +1,18 @@
+application: tritonhnwebsite
+version: 3
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: index.php
+  
+- url: /(.*\.(gif|png|jpg|ico|js|css|asp|pdf))
+  static_files: \1
+  upload: (.*\.(gif|png|jpg|ico|js|css|asp|pdf))
+
+- url: /(.*\.php)
+  script: \1
+  
+error_handlers:
+- file: /not-found.html
