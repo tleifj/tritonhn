@@ -11,7 +11,7 @@
     <!-- -->
   </div>
   <div class="content clearfix" >
-    <h1>The PhycoLogix Platform</h1>
+    <h1>The Triton Platform</h1>
   	<!-- Include subnav file -->
 	<?php
 		include 'technology-subnav.php';
