@@ -1,7 +1,7 @@
 <footer>
   <div id="footer-content" class="clearfix">
     <div class="fLogo"><a class="footer-logo ir" href="index.php">logo</a></div>
-	<div class="fCopyright">COPYRIGHT 2013 TRITON ALGAE INNOVATIONS LTD<br/>
+	<div class="fCopyright">COPYRIGHT <?php echo date('Y'); ?> TRITON ALGAE INNOVATIONS LTD<br/>
     	PhycoLogix is a trademark of Triton Algae Innovations, Ltd.</div>
     <ul id="footer-nav" class="clearfix">
       <li><a href="about.php">About Us</a></li>

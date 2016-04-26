@@ -26,19 +26,21 @@
       
       <p>&nbsp;</p>
       <p><strong>What are Triton's proteins?</strong></p>
-      <p>Triton has innovated a family of proteins - which are biologically identical to those occurring in nature - that may help in the reduction or prevention of intestinal diseases. This family of proteins is all-natural; they are innate to all mammals. These proteins help to enable digestive tract health, including: repelling harmful infections (e.g., E. coli), combating existing infections, and improving digestion of nutrients.
-Triton’s first product is called Mammary Associated Amyloid (MAA); it also has a number of other proteins which it plans to bring to market over the next several years.</p>
+      <p>Triton is developing a family of complex orally deliverable proteins - which are biologically identical to those occurring in nature - that have well-documented beneficial effects on both infants and adults. These proteins are safe and biologically active, and have shown positive health effects in areas such as digestive health, bone strength and density, oral health, and cognitive development.  Triton’s has a large and diverse portfolio of these proteins that we will bring to market, such as osteopontin (OPN), lactadherin (LHN) and mammary associated amyloid (MAA).</p>
       
+    <p>&nbsp;</p>
+      <p><strong>What is Osteopontin (OPN)?</strong></p>
+      <p>OPN is a colostrum and milk protein, which interacts with multiple systems in the body of all mammals, including the immune system; it also supports bone growth/resorption and accelerates wound healing.  Additionally, OPN has been shown to induce production of immune cells, and to support brain and cognitive development.
+      </p>
+      <p>&nbsp;</p>
+      <p><strong>What is Lactadherin (LHN)?</strong></p>
+      <p>LHN is an important protein component of colostrum and milk, conserved across all vertebrates.  It supports the immune system in finding and removing dead cells which create inflammation; plays an important role in maintaining normal health of the intestinal mucosa, and; helps support natural defense against rotavirus infections, a common cause of nausea and diarrhea among infants and young children.
+
+      </p>
+
       <p>&nbsp;</p>
       <p><strong>What is Mammary Associated Amyloid (MAA)?</strong></p>
-      <p>MAA is a protein found in the colostrum (first milk) of all mammals. MAA stimulates the production of a mucus coating in the digestive tract. This mucus may help to:
-      <ul>
-			<li>Prevent colonization of pathogenic bacteria and reduces viral infection rates</li>
-			<li>Address pathogenic bacterial infections </li>
-			<li>Improve nutrient uptake by the intestines, causing animals and humans alike to better absorb the nutrients from their food</li>
-      </ul>
-      <p>MAA is active in mammals of all ages, and is a powerful therapy to address intestinal disease in livestock, companion animals, and humans.
-MAA has been extensively tested over the past 20+ years. It is a major component of colostrum (approximately 10% of fractionated colostrum by weight). The safety and efficacy of colostrum has been tested for decades. Over 33 studies have been conducted on over 2,750 mammalian subjects, including 1100 humans. In these studies, zero negative effects were observed and most of the studies showed positive results from use of colostrum. There are few other products in the world that have such unequivocal effects. As a result, fractionated colostrum is an approved product by the FDA for use in addressing certain digestive disorders, such as ulcerative colitis.</p>
+      <p>MAA is found in the colostrum of all mammals, and helps stimulate production of a mucus coating in the digestive tract.  These coatings help to prevent colonization of pathogenic bacteria, minimize viral infection, and improve nutrient intake by the intestines.  It is active in mammals of all ages, and holds great potential to support normal, healthy intestinal function in humans, companion animals, and livestock. </p>
         
         
         <p>&nbsp;</p>
@@ -46,29 +48,22 @@ MAA has been extensively tested over the past 20+ years. It is a major component
         <p>Triton is commercializing MAA via strategic partnerships with algae producers and marketing and distribution companies. Further details on these relationships will be announced soon.</p>
         
         <p>&nbsp;</p>
-        <p><strong>What are the future products?</strong></p>
+        <p><strong>What are possible future products?</strong></p>
         <ul>
-       	  <li>Antibacterials / antimicrobials: these are naturally occurring mammalian proteins that have high efficacy in killing bacteria, fungi and viruses, and in addressing infection.  Additionally, they do not create resistance in bacteria, and serve as a natural replacement of chemical antibiotics;</li>
-            <li>Bone growth enhancement: Proteins that enable the body to bind calcium in bone matrices more effectively; this is a potential means by which to address the effects of osteoporosis;</li>
-            <li>Intestinal health: Proteins that mitigate and prevent diarrhea and intestinal inflammation;
+       	  <li>infant formula: colostrum proteins are abundant in breast milk, but absent in infant formula.  Triton’s intends to provide certain key proteins, such as OPN, as safe, healthy and natural ingredients to infant formula manufacturers.</li>
+            <li>antibacterials/antimicrobials:  these are naturally occurring mammalian proteins that have high efficacy against bacteria, fungi and viruses, and in impeding infections.  Further, they do not create resistance in bacteria, and serve as a natural substitute for chemical-based antibiotics.
 </li>
-            <li>Antioxidants: Natural proteins that mitigate and/or prevent damage caused by UV radiation and oxidation; possible impacts on aging and cancer;
+            <li>bone strength enhancement:  proteins that support the body in more effectively binding calcium in bone matrices; recent studies indicate the potential for eventually addressing the effects of osteoporosis.
 </li>
-            <li>DNA repair enzymes: Natural proteins that mitigate damage to DNA caused by UV radiation; possible impacts on aging and cancer;
+            <li>Digestive health:  proteins that help support regular digestive function and health.
+
 </li>
-            <li>Biosurfactants: Natural proteins that help to clean skin and prevent bacterial buildup;
-</li>
-            <li>Growth factors: Hormones and proteins that enable healthy muscle and bone growth;</li>
-            <li>Vaccines: Novel and low cost vaccinations against rotavirus (major cause of diarrheal disease) and malaria Vaccines: Novel and low cost vaccinations against rotavirus (major cause of diarrheal disease) and malaria;</li>
-            <li>Anti-cancer agents: Potent anti-tumor treatments</li>
         </ul>
-        
+        <p>Other potential products could include antioxidants, DNA repair enzymes, growth factors, vaccines, and anti-cancer agents. 
+</p>
       <p>&nbsp;</p>
       <p><strong>What are the future markets?</strong></p>
-      <p>Triton’s products can be used in multiple industries.  </p>
-        <p><strong>Animal health</strong> (livestock and pets) and <strong>human health</strong> (nutraceuticals and pharmaceuticals): Triton will create products using its antimicrobials, intestinal health proteins, antioxidants, growth factors, and bone growth enhancers. These will be used to address diarrheal disease, improve nutrient uptake, enhance bone density and bone growth (e.g., addressing the effects of osteoporosis), mitigate chronic intestinal diseases (e.g., colitis), and as potent anti-cancer drugs.</p>
-      <p><strong>Cosmetics:</strong> Triton plans to develop products for skincare, hair care, odor care, and personal hygiene using natural proteins. These include antibacterials, antioxidants, biosurfactants, and DNA repair enzymes. Examples of related products include UV protectants, anti-aging treatments, odor eliminators, hair volumizers, and general hair and skin care enhancers.</p>
-      <p><strong>World health: </strong>Triton envisions its intestinal health products and vaccines being deployed for use in developing countries.  Because algae can produce these therapies at very low cost, they represent a potentially affordable means by which to respond to and mitigate these major health problems in low-income regions of the world. Triton’s products could be mixed with traditional foodstuffs to address diarrheal diseases (which annually claim more than 2.1 million lives in Africa and SE Asia alone) and parasitic diseases such as malaria (which kills over 800,000 people annually). If successfully deployed at this scale, these and other Triton products would represent a new paradigm in world health – Agricultural Pharmaceuticals.
+      <p>Triton’s products have broad potential applications across multiple industries; in the near term, it is targeting product demand in the global infant formula market, as well as the companion animal and livestock feed markets.
 </p>
     </div>
   </div>
