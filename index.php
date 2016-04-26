@@ -18,7 +18,7 @@
     </div>
     <div id="homecontent-copy" class="clearfix">
       <div id="wcol">
-        <div class="big"> Triton is developing better mechanisms to strengthen animal and human health with natural proteins.</div>
+        <div class="big"> Triton's developing better mechanisms to strengthen animal and human health with natural proteins.</div>
         <p>Triton Health and Nutrition has developed proteins from nature for oral delivery that are simple, safe, and effective. These highly effective natural proteins can improve animal and human health without the use of artificial antibiotics or hormones.</p>
         <p>Building on more than 25 years of research, Triton has developed algae strains that produce these high-value proteins. Both these algae and the resulting proteins have been shown to be reliably safe and effective. As a result, Triton can deliver its products in whole algae, without having to purify the active compounds, meaning that these proteins can be efficiently and cost-effectively delivered to animals and humans.
 Learn more about our technology and our company.</p>
