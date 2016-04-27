@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Triton Health and Nutrition</title>
+    <title>Triton Algae Innovations</title>
     <meta name="description" content="">
     <link href='http://fonts.googleapis.com/css?family=Belleza:300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="stylesheets/style.css">

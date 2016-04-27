@@ -13,7 +13,7 @@
     	<h1>Contact</h1>
       <div id="copy" class="wide clearfix">
         <div style="width:300px; float:left;">
-        	<p style="margin-right:50px;"><strong>Triton Health and Nutrition</strong><br>
+        	<p style="margin-right:50px;"><strong>Triton Algae Innovations</strong><br>
 						11558 Sorrento Valley Road, Suite 3<br>
 						San Diego, CA 92121<br>
           <p>For media inquiries, please email <a href="mailto:media@tritonhn.com">media@tritonhn.com</a></p>

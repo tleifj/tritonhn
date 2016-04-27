@@ -30,13 +30,6 @@
 <p>MAA - this is a protein found in the colostrum of all mammals, and helps stimulate production of a mucus coating in the digestive tract.  These coatings help to prevent colonization of pathogenic bacteria, minimize viral infection, and improve nutrient intake by the intestines.  It is active in mammals of all ages, and supports normal, healthy digestive function in humans, companion animals, and livestock.  </p>
 
       <p style="margin-top:20px; margin-bottom:20px;"><img src="img/technology-pipeline.png" width="570" height="570"></p>
-
-		<p>Triton’s products can be used in multiple industries. </p>
-        <p><strong>Animal health</strong> (livestock and pets) and <strong>human health</strong> (nutraceuticals and pharmaceuticals): Triton will create products using its antimicrobials, intestinal health proteins, antioxidants, growth factors, and bone growth enhancers. These will be used to address diarrheal disease, improve nutrient uptake, enhance bone density and bone growth (e.g., addressing the effects of osteoporosis), mitigate chronic intestinal diseases (e.g., colitis), and as potent anti-cancer drugs.</p>
-      <p><strong>Cosmetics:</strong> Triton plans to develop products for skincare, hair care, odor care, and personal hygiene using natural proteins. These include antibacterials, antioxidants, biosurfactants, and DNA repair enzymes. Examples of related products include UV protectants, anti-aging treatments, odor eliminators, hair volumizers, and general hair and skin care enhancers.</p>
-        <p><strong>World health: </strong>Triton envisions its intestinal health products and vaccines being deployed for use in developing countries.  Because algae can produce these therapies at very low cost, they represent the first affordable treatments for these major health problems in low-income regions of the world. Triton’s products could be mixed with traditional foodstuffs to address diarrheal diseases (which annually claim more than 2.1 million lives in Africa and SE Asia alone) and parasitic diseases such as malaria (which kills over 800,000 people annually). Once deployed, these and other Triton products will represent a new paradigm in world health – Agricultural Pharmaceuticals.</p>
-
-      <p>For more information about Triton’s pipeline, please <a href="contact.php">contact us</a>.</p>
       
     </div>
   </div>

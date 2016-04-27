@@ -70,7 +70,7 @@ body { background:#10a01d; }
 header { width:100%; background:url(../img/header-background.png) repeat-x center; height:154px; }
 body#home header { width:100%; background:url(../img/bkg-home.png) repeat-x center; height:538px; }
 header #header-wrapper { width:960px; margin:0 auto; position:relative; }
-header #header-wrapper #mainLogo { background:url(../img/header-logo.png) no-repeat; width:300px; height:110px; position:relative; top:18px; left:0px; float:left; }
+header #header-wrapper #mainLogo { background:url(../img/header-logo-ai.png) no-repeat; width:300px; height:110px; position:relative; top:18px; left:0px; float:left; }
 
 header #header-wrapper #mainNav { height:99px; width:550px; position:absolute; top:34px; right:0px; margin:0; padding:0; list-style:none; list-style-type:none; text-align:center; }
 header #header-wrapper #mainNav li { float:left; }
@@ -295,7 +295,7 @@ body#home footer #footer-content { width:960px; height:42px; margin:0 auto; posi
 footer #footer-content .fLogo { float:left; }
 footer #footer-content .fLogo .footer-logo { background:url(../img/footer-white-logo.png) no-repeat; width:200px; float:left; margin-right:15px; }
 
-footer #footer-content .fCopyright { float:left; width:300px; margin:0; padding:0; line-height:21px; }
+footer #footer-content .fCopyright { float:left; width:300px; margin:0; padding:0; line-height:42px; }
 
 footer #footer-content #footer-nav { float:right; list-style:none; list-style-type:none; margin:0; padding:0; }
 footer #footer-content #footer-nav li { float:left; margin-left:8px; color:#fff; }

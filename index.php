@@ -18,15 +18,8 @@
     </div>
     <div id="homecontent-copy" class="clearfix">
       <div id="wcol">
-<<<<<<< HEAD
         <div class="big"> Triton is developing better mechanisms to strengthen animal and human health with natural proteins.</div>
         <p>Triton Algae Innovations is a San Diego based biotechnology company that produces recombinant human and bovine colostrum and milk proteins in eukaryotic green algae. Built on over 25 years of algae research at The Scripps Research Institute and UC San Diego, Triton’s IP-protected technology platform is optimized for low-cost and commercial-scale production of complex orally deliverable colostrum proteins such as osteopontin (OPN), which has well-documented beneficial effects on both infants and adults. These proteins have been demonstrated to be safe and biologically active, and have proven positive effects in areas such as gut health, bone strength and density, oral health, and cognitive development. Importantly, OPN and other proteins occur naturally in human breast milk, but are absent from infant formula.  Triton intends to provide these proteins for the growing global infant formula market. </p>
-=======
-        <div class="big"> Triton's developing better mechanisms to strengthen animal and human health with natural proteins.</div>
-        <p>Triton Health and Nutrition has developed proteins from nature for oral delivery that are simple, safe, and effective. These highly effective natural proteins can improve animal and human health without the use of artificial antibiotics or hormones.</p>
-        <p>Building on more than 25 years of research, Triton has developed algae strains that produce these high-value proteins. Both these algae and the resulting proteins have been shown to be reliably safe and effective. As a result, Triton can deliver its products in whole algae, without having to purify the active compounds, meaning that these proteins can be efficiently and cost-effectively delivered to animals and humans.
-Learn more about our technology and our company.</p>
->>>>>>> origin/master
         <p>Learn more about <a href="technology.php">our technology</a> and <a href="about.php">our company.</a></p>
 		</div>
       <div id="hcol">

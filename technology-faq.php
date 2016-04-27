@@ -42,11 +42,6 @@
       <p><strong>What is Mammary Associated Amyloid (MAA)?</strong></p>
       <p>MAA is found in the colostrum of all mammals, and helps stimulate production of a mucus coating in the digestive tract.  These coatings help to prevent colonization of pathogenic bacteria, minimize viral infection, and improve nutrient intake by the intestines.  It is active in mammals of all ages, and holds great potential to support normal, healthy intestinal function in humans, companion animals, and livestock. </p>
         
-        
-        <p>&nbsp;</p>
-        <p><strong>How is MAA being commercialized?</strong></p>
-        <p>Triton is commercializing MAA via strategic partnerships with algae producers and marketing and distribution companies. Further details on these relationships will be announced soon.</p>
-        
         <p>&nbsp;</p>
         <p><strong>What are possible future products?</strong></p>
         <ul>
